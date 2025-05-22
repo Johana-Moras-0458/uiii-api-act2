@@ -1,0 +1,70 @@
+{
+  "peluches": [
+    {
+      "id": 1,
+      "nombre": "Totoro Grande",
+      "color": "Gris",
+      "tamaño": "Grande",
+      "precio": 29.99,
+      "tipoDeTela": "Felpuda",
+      "imagen": "https://example.com/totoro.jpg",
+      "idProveedor": 101,
+      "idSucursal": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Jiji el Gato",
+      "color": "Negro",
+      "tamaño": "Mediano",
+      "precio": 19.99,
+      "tipoDeTela": "Algodón",
+      "imagen": "https://example.com/jiji.jpg",
+      "idProveedor": 102,
+      "idSucursal": 1
+    },
+    {
+      "id": 3,
+      "nombre": "No-Face",
+      "color": "Blanco y negro",
+      "tamaño": "Grande",
+      "precio": 24.99,
+      "tipoDeTela": "Suave polar",
+      "imagen": "https://example.com/noface.jpg",
+      "idProveedor": 101,
+      "idSucursal": 2
+    },
+    {
+      "id": 4,
+      "nombre": "Kodama del Bosque",
+      "color": "Blanco",
+      "tamaño": "Pequeño",
+      "precio": 14.99,
+      "tipoDeTela": "Polar",
+      "imagen": "https://example.com/kodama.jpg",
+      "idProveedor": 103,
+      "idSucursal": 2
+    },
+    {
+      "id": 5,
+      "nombre": "Chihiro con Haku",
+      "color": "Multicolor",
+      "tamaño": "Mediano",
+      "precio": 34.99,
+      "tipoDeTela": "Poliéster",
+      "imagen": "https://example.com/chihiro.jpg",
+      "idProveedor": 102,
+      "idSucursal": 1
+    },
+    {
+      "id": 6,
+      "nombre": "Calcifer Fuego",
+      "color": "Rojo y amarillo",
+      "tamaño": "Pequeño",
+      "precio": 17.99,
+      "tipoDeTela": "Fieltro",
+      "imagen": "https://example.com/calcifer.jpg",
+      "idProveedor": 101,
+      "idSucursal": 3
+    }
+  ]
+}
